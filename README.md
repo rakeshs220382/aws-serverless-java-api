@@ -46,4 +46,4 @@ sam deploy --guided
 🔹 **Open to PRs** – feel free to improve or optimize!  
 🔹 **For issues/questions**, raise a GitHub issue.  
 
-📬 **Let's Connect!** [LinkedIn Profile]([https://linkedin.com/in/yourname](https://www.linkedin.com/in/rakeshksinha1/)  
+ 
